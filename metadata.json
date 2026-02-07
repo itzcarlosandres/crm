@@ -1,0 +1,7 @@
+{
+  "name": "CrediFlow Pro",
+  "description": "Plataforma profesional para la gestión de microcréditos, préstamos e inversiones con análisis de riesgo por IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
